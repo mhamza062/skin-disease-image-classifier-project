@@ -3,3 +3,4 @@ tensorflow
 Pillow
 numpy
 absl-py
+python-3.10
